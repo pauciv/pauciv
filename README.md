@@ -28,11 +28,6 @@
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=pauciv&label=Profile%20views&color=0e75b6&style=flat"
-        alt="pauciv"
-    />
-</p>
+<h3 align="left">Github Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauciv&show_icons=true&locale=en" alt="pauciv" /></p>
+[![Pau Civill's github stats](https://github-readme-stats.vercel.app/api?username=pauciv)](https://github.com/anuraghazra/github-readme-stats)
