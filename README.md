@@ -31,3 +31,5 @@
 <h3 align="left">Github Stats</h3>
 
 [![Pau Civill's github stats](https://github-readme-stats.vercel.app/api?username=pauciv)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauciv&show_icons=true&locale=en&layout=compact" alt="pauciv" /></p>
